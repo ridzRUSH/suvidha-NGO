@@ -5,11 +5,11 @@ const TestomonialCard = ({ text, person, image }) => {
         <img className="rounded-t-lg" src={image} alt={person} />
 
         <div className="p-5">
-          <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-xl sm:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {text}
           </h5>
 
-          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+          <p className="mb-3 font-normal text-sm sm:text-base text-gray-700 dark:text-gray-400">
             {person}
           </p>
         </div>

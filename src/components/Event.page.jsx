@@ -13,7 +13,7 @@ const Event = () => {
       <h1 className="text-4xl text-center md:text-3xl font-bold text-gray-800 sm:text-2xl mb-2 ">
         Events
       </h1>
-      <div className="grid grid-col-autogrid   lg:grid-cols-3 gap-2  place-items-center  sm: grid-cols-2 md:grid-cols-3">
+      <div className="grid place-items-center  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         <EventCard
           image={Tree_Plantation}
           title="Tree Plantation"

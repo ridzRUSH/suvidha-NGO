@@ -20,7 +20,7 @@ const Testomonial = () => {
           about us
         </h1>
       </span>
-      <div className="grid ml-[9%] md:ml-0 grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid ml-[9%] grid-cols-1 md:ml-0 md:grid-cols-2 lg:grid-cols-4 gap-2">
         <div className="h-auto max-w-full rounded-lg">
           <TestimonialCard
             text="I'm glad to have worked with the Suvidha Foundation because I am passionate about their message and what they, glad to be a part of NGO"
