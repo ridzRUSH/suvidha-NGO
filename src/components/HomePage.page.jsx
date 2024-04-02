@@ -23,7 +23,7 @@ const HomePage = () => {
                     <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 text-center">
                       Empowering
                       <span className="text-green-800"> women</span> today
-                      <span className="text-5xl text-green-800">!</span>
+                      <span className="text-3xl text-green-800">!</span>
                     </h1>
                     <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 text-center">
                       for a brighter tomorrow
