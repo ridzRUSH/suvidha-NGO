@@ -51,7 +51,7 @@ const Testomonial = () => {
         </div>
         <div className="h-auto max-w-full rounded-lg">
           <TestimonialCard
-            text="It was great experience to work in Suvidha Foundation, team work is very good. They conduct daily meetings to guide how to work,which they make our work more easy."
+            text="It was great experience to work in Suvidha Foundation. They conduct daily meetings to guide how to work , provide ease in work."
             person={"Divya Malfoy"}
             image={divyaMalfoy}
           />
